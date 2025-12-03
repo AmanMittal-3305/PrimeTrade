@@ -134,17 +134,4 @@ frontend/
 - MongoDB Atlas cloud database  
 - CORS + security headers can be added  
 
----
 
-## 📬 Submission
-
-Send your GitHub repo + this assignment to:
-
-```
-saami@bajarangs.com
-nagasai@bajarangs.com
-chetan@bajarangs.com
-CC: sonika@primetrade.ai
-```
-
-Subject: **Frontend Developer Task**
