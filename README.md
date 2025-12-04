@@ -134,4 +134,4 @@ frontend/
 - MongoDB Atlas cloud database  
 - CORS + security headers can be added  
 
-
+---
